@@ -4,7 +4,7 @@
 ### SD card module
 |||
 |------|------:|
-| MOSI |pin 11|
-| MISO |pin 12|
+| MOSI/DI |pin 11|
+| MISO/DO |pin 12|
 | CLK  |pin 13|
 | CS   |pin 4|
